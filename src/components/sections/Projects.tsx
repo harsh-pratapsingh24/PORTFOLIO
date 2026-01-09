@@ -17,7 +17,7 @@ const projects = [
     ],
     techStack: ["Python", "Streamlit", "ML APIs"],
     github: "https://github.com/harsh-pratapsingh24",
-    demo: "#",
+    demo: "https://harshpratap-nutriguard.streamlit.app/",
   },
   {
     title: "Stock Price Forecasting",
@@ -32,7 +32,7 @@ const projects = [
     ],
     techStack: ["Python", "Prophet", "yfinance", "Plotly", "Streamlit"],
     github: "https://github.com/harsh-pratapsingh24",
-    demo: "#",
+    demo: "https://stock-forecasting-harsh-pratapsingh24.streamlit.app/",
   },
   {
     title: "Deadline Buddy",
@@ -47,7 +47,7 @@ const projects = [
     ],
     techStack: ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB"],
     github: "https://github.com/harsh-pratapsingh24",
-    demo: "#",
+    demo: "https://deadline-buddyy-z6ckn5ggi-harsh-pratapsingh24s-projects.vercel.app/login",
   },
 ];
 
